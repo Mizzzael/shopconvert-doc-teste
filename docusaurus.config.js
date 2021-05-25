@@ -11,8 +11,8 @@
 module.exports = {
     title: 'Manual de Testes',
     tagline: 'Manual para realizar testes na ferramenta ShopConvert.',
-    url: 'https://your-docusaurus-test-site.com',
-    baseUrl: '/',
+    url: 'https://mizzzael.github.io',
+    baseUrl: '/shopconvert-doc-teste/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',

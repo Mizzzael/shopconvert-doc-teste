@@ -14,7 +14,7 @@ Conjunto de parâmetros que nossa ferramenta se utiliza para rastrear o fluxo de
 
 <video
  class="col col--12" controls>
-  <source src="videos/video-12.webm" />
+  <source src="https://mizzzael.github.io/shopconvert-doc-teste/videos/video-12.webm" />
   Your browser does not support HTML video.
 </video>
 
@@ -23,7 +23,7 @@ Nesse tópico, é necessário ter um pouco mais de atenção, visto que o cookie
 
 <video
  class="col col--12" controls>
-  <source src="videos/video-13.webm" />
+  <source src="https://mizzzael.github.io/shopconvert-doc-teste/videos/video-13.webm" />
   Your browser does not support HTML video.
 </video>
 

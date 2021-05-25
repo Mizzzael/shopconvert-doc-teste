@@ -13,7 +13,7 @@ slug: /Leads
 As pesquisas são utilizados para mensuração numérica:
 <video
  class="col col--12" controls>
-  <source src="videos/video-14.webm" />
+  <source src="https://mizzzael.github.io/shopconvert-doc-teste/videos/video-14.webm" />
   Your browser does not support HTML video.
 </video>
 
@@ -21,6 +21,6 @@ As pesquisas são utilizados para mensuração numérica:
 Os Leads costumam ser utilizados para coleta de informações a respeito dos usuários, como e-mail, nome, gênero e telefone: 
 <video
  class="col col--12" controls>
-  <source src="videos/video-15.webm" />
+  <source src="https://mizzzael.github.io/shopconvert-doc-teste/videos/video-15.webm" />
   Your browser does not support HTML video.
 </video>

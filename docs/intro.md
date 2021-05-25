@@ -1,0 +1,22 @@
+---
+id: intro
+title: Introdução
+sidebar_label: Introdução
+slug: /
+---
+
+# Introdução
+
+Muito bem pessoal, nesse tutorial vocês veram como testar as peças da plataforma shopconvert, e shoptarget.
+Porém, é preciso deixar algumas coisas claras, antes de prosseguirmos com esse tutorial!
+
+### Tag, o segredo do sucesso!
+Antes de iniciar os testes, certifique-se de que a tag no site esteja plenamente operacional, na maioria dos casos o desenvolvedor irá
+informar caso haja algum problema com a tag, porém redundância é a melhor forma de se garantir uma consistência no fluxo de testes.
+
+### A Ferramenta não é Perfeita!
+Esse, na verdade, é um alerta, ocasionalmente alguns erros pode ser observados, devido a lentidões de nossa infra-estrutura, portanto, tenham sempre cautela.
+Testem mais de uma vez sempre!
+
+### Sertifique-se que a peça mobile está setada!
+Antes de iniciar os testes, vá até a campanha e verifique se a peça está setada no mobile, isso será melhor apresentado nos capítulos posteriormente.

@@ -15,7 +15,7 @@ slug: /Ferramentas
 <br />
 <br />
 <video class="col col--12" controls>
-  <source src="/videos/video-1.webm" />
+  <source src="videos/video-1.webm" />
 </video>
 <br />
 <br />
@@ -23,7 +23,7 @@ slug: /Ferramentas
 <br />
 <br />
 <video class="col col--12" controls>
-  <source src="/videos/video-2.webm" />
+  <source src="videos/video-2.webm" />
   Your browser does not support HTML video.
 </video>
 <br />
@@ -32,6 +32,6 @@ slug: /Ferramentas
 <br />
 <br />
 <video class="col col--12" controls>
-  <source src="/videos/video-3.webm" />
+  <source src="videos/video-3.webm" />
   Your browser does not support HTML video.
 </video>

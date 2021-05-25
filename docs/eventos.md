@@ -16,7 +16,7 @@ slug: /Eventos
 
 <video
  class="col col--12" controls>
-  <source src="static/videos/video-6.webm" />
+  <source src="/videos/video-6.webm" />
   Your browser does not support HTML video.
 </video>
 
@@ -25,7 +25,7 @@ slug: /Eventos
 
 <video
  class="col col--12" controls>
-  <source src="static/videos/video-7.webm" />
+  <source src="/videos/video-7.webm" />
   Your browser does not support HTML video.
 </video>
 
@@ -34,7 +34,7 @@ slug: /Eventos
 
 <video
  class="col col--12" controls>
-  <source src="static/videos/video-8.webm" />
+  <source src="/videos/video-8.webm" />
   Your browser does not support HTML video.
 </video>
 
@@ -43,7 +43,7 @@ slug: /Eventos
 
 <video
  class="col col--12" controls>
-  <source src="static/videos/video-9.webm" />
+  <source src="/videos/video-9.webm" />
   Your browser does not support HTML video.
 </video>
 
@@ -52,7 +52,7 @@ slug: /Eventos
 
 <video
  class="col col--12" controls>
-  <source src="static/videos/video-10.webm" />
+  <source src="/videos/video-10.webm" />
   Your browser does not support HTML video.
 </video>
 
@@ -61,6 +61,6 @@ As peças no ambiente mobile, são manualmente setadas através do painel da pe�
 
 <video
  class="col col--4" controls>
-  <source src="static/videos/video-11.webm" />
+  <source src="/videos/video-11.webm" />
   Your browser does not support HTML video.
 </video>

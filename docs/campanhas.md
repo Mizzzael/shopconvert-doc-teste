@@ -11,7 +11,7 @@ Muito bem! É aqui que o show começa, antes, atente-se aos links que cada item 
                                 pausado e <i class='ico ico-fa-pause text-gray-800'></i> para ativo, e, por fim, o famigerado Ícone de deleção <i class='ico ico-fa-trash_o text-gray-800'></i> (NÃO APERTE!).
 
 <video class="col col--12" controls>
-  <source src="static/videos/video-4.webm" />
+  <source src="/videos/video-4.webm" />
   Your browser does not support HTML video.
 </video>
 <br />
@@ -29,7 +29,7 @@ Como este é um guia rápido para testes, vamos nos concentrar na prática, afin
 <br />
 <br />
 <video class="col col--12" controls>
-  <source src="static/videos/video-5.webm" />
+  <source src="/videos/video-5.webm" />
   Your browser does not support HTML video.
 </video>
 <br />

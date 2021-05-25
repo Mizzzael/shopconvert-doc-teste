@@ -47,12 +47,28 @@ module.exports = {
                     title: 'Learn',
                     items: [
                         {
-                            label: 'Style Guide',
+                            label: 'Introdução',
                             to: 'docs/',
                         },
                         {
-                            label: 'Second Doc',
-                            to: 'docs/doc2',
+                            label: 'Ferramentas',
+                            to: 'docs/Ferramentas',
+                        },
+                        {
+                            label: 'Campanhas',
+                            to: 'docs/Campanhas',
+                        },
+                        {
+                            label: 'Eventos',
+                            to: 'docs/Eventos',
+                        },
+                        {
+                            label: 'Recomendação',
+                            to: 'docs/Recomendacao',
+                        },
+                        {
+                            label: 'Leads',
+                            to: 'docs/Leads',
                         },
                     ],
                 },

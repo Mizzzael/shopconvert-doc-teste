@@ -10,6 +10,6 @@
 module.exports = {
     someSidebar: {
         ShopConvert: ['intro', 'contas', 'campanhas', 'eventos', 'recomendacao', 'lead'],
-        ShopTarget: ['mdx'],
+        // ShopTarget: ['mdx'],
     },
 };

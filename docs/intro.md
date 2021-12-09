@@ -18,5 +18,5 @@ informar caso haja algum problema com a tag, porém redundância é a melhor for
 Esse, na verdade, é um alerta, ocasionalmente alguns erros pode ser observados, devido a lentidões de nossa infra-estrutura, portanto, tenham sempre cautela.
 Testem mais de uma vez sempre!
 
-### Sertifique-se que a peça mobile está setada!
+### Certifique-se que a peça mobile está setada!
 Antes de iniciar os testes, vá até a campanha e verifique se a peça está setada no mobile, isso será melhor apresentado nos capítulos posteriormente.

@@ -8,8 +8,8 @@ slug: /Eventos
 # Eventos
 
 > Nesse tópico, lhe será apresentado os eventos que são utilizados para a apresentação de cada peça, acima foi dito que o evento customizado,
-                                varia de campanha a campanha,  portanto, o responsável deveria ser contactado a respeito destes comportamentos, porém, em alguns casos,
-                                isso não será necessário, pois você vera que algumas peças, apesar de serem eventos customizados, tem seu evento padrão, estas serão apresentadas no decorre deste tópico!
+                                varia de campanha a campanha,  portanto, o responsável devera ser contactado a respeito destes comportamentos, porém, na maioria dos casos,
+                                isso não será necessário, pois você vera que algumas peças, apesar de serem eventos customizados, tem seu evento padrão, estas serão apresentadas no decorrer deste tópico!
 
 ### Abandono da página:
 É Acionado quando o usuário abandona a página no eixo Y:
@@ -58,7 +58,7 @@ slug: /Eventos
 
 ### Peças mobile:
 As peças no ambiente mobile, são manualmente setadas através do painel da peça, porém, deve se atentar, que as peças de caráter responsivo terão dois eventos setados:
-
+<!-- Todo: colocar um video demonstrando como as configurações das peças mobiles são feitas. -->
 <video
  class="col col--4" controls>
   <source src="https://mizzzael.github.io/shopconvert-doc-teste/videos/video-11.webm" />

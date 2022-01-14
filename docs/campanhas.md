@@ -7,7 +7,7 @@ slug: /Campanhas
 
 # Campanhas
 
-Muito bem! É aqui que o show começa, antes, atente-se aos links que cada item da lista de peças lhe disponibilizam, o ícone de visualização <i class='ico ico-fa-eye text-gray-800'></i> (Nem sempre funcional bem!), o ícone de edição <i class='ico ico-fa-edit text-gray-800'></i> (O mais importante!), o ícone de status, sendo <i class='ico ico-fa-play text-gray-800'></i>
+Muito bem! É aqui que o show começa, antes, atente-se aos links que cada item da lista de peças lhe disponibilizam, o ícone de visualização <i class='ico ico-fa-eye text-gray-800'></i> (Nem sempre funciona bem!), o ícone de edição <i class='ico ico-fa-edit text-gray-800'></i> (O mais importante!), o ícone de status, sendo <i class='ico ico-fa-play text-gray-800'></i>
                                 pausado e <i class='ico ico-fa-pause text-gray-800'></i> para ativo, e, por fim, o famigerado Ícone de deleção <i class='ico ico-fa-trash_o text-gray-800'></i> (NÃO APERTE!).
 
 <video class="col col--12" controls>
@@ -20,7 +20,7 @@ Como este é um guia rápido para testes, vamos nos concentrar na prática, afin
 <br />
 <br />
 
-- Certifique-se de que a peça está ativa!
+- Certifique-se de que a peça está ativa! (Em ambiente teste!)
 - Verifique se a ferramenta já está populada com produtos.
 - Vá até às campanhas, e na campanha que deseja-se testar, clique em editar, e ao acessar o painel da peça verifique se a Url esta setada para teste,
                                         ex: `*?overlay-recomendacao`
@@ -28,6 +28,7 @@ Como este é um guia rápido para testes, vamos nos concentrar na prática, afin
 
 <br />
 <br />
+<!-- Todo: Acrescentar video de teste. -->
 <video class="col col--12" controls>
   <source src="https://mizzzael.github.io/shopconvert-doc-teste/videos/video-5.webm" />
   Your browser does not support HTML video.

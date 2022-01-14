@@ -6,6 +6,7 @@
  *
  * @format
  */
+// Todo: colocar informações extras do produto. (Regras customizadas e o filtro)
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
@@ -44,14 +45,14 @@ module.exports = {
             style: 'dark',
             links: [
                 {
-                    title: 'Learn',
+                    title: 'Leia',
                     items: [
                         {
                             label: 'Introdução',
                             to: 'docs/',
                         },
                         {
-                            label: 'Ferramentas',
+                            label: 'Ferramenta',
                             to: 'docs/Ferramentas',
                         },
                         {

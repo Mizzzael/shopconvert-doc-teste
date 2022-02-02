@@ -14,15 +14,30 @@ Porém, é preciso deixar algumas coisas claras, antes de prosseguirmos com esse
 ### Tag, o segredo do sucesso!
 Antes de iniciar os testes, certifique-se de que a tag no site esteja plenamente operacional, na maioria dos casos o desenvolvedor irá
 informar caso haja algum problema com a tag, porém redundância é a melhor forma de se garantir uma consistência no fluxo de testes.
+<br />
+<br />
 
 > Exemplo de como testar:
 
-<br />
-<br />
 <video class="col col--12" controls>
   <source src="https://mizzzael.github.io/shopconvert-doc-teste/videos/video-18.webm" />
   Your browser does not support HTML video.
 </video>
+<br />
+<br />
+
+### Uma porta de saída!
+
+Possuímos também, uma [extensão](https://mizzzael.github.io/shopconvert-doc-teste/extention/shopback-check.crx) que pode nos facilitar o trabalho de checar a tag!
+
+<br />
+<br />
+<video class="col col--12" controls>
+  <source src="https://mizzzael.github.io/shopconvert-doc-teste/videos/video-19.webm" />
+  Your browser does not support HTML video.
+</video>
+<br />
+<br />
 
 ### A Ferramenta não é Perfeita!
 Esse, na verdade, é um alerta, ocasionalmente alguns erros podem ser observados, devido a lentidão de nossa infra-estrutura, portanto, tenham sempre cautela.

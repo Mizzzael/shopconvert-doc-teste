@@ -45,3 +45,17 @@ Exemplo:
 </video>
 <br />
 <br />
+<br />
+<br />
+
+> Obs: Se atente a verificar se a ferramenta está setada em desktop e/ou mobile, pois, caso um ambiente não esteja setado esse não exibirá a campanha!
+
+<br />
+<br />
+
+<video class="col col--12" controls>
+  <source src="https://mizzzael.github.io/shopconvert-doc-teste/videos/video-17.webm" />
+  Your browser does not support HTML video.
+</video>
+<br />
+<br />

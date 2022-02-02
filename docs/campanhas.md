@@ -28,9 +28,19 @@ Como este é um guia rápido para testes, vamos nos concentrar na prática, afin
 
 <br />
 <br />
-<!-- Todo: Acrescentar video de teste. -->
 <video class="col col--12" controls>
   <source src="https://mizzzael.github.io/shopconvert-doc-teste/videos/video-5.webm" />
+  Your browser does not support HTML video.
+</video>
+<br />
+<br />
+<br />
+<br />
+Exemplo:
+<br />
+<br />
+<video class="col col--12" controls>
+  <source src="https://mizzzael.github.io/shopconvert-doc-teste/videos/video-16.webm" />
   Your browser does not support HTML video.
 </video>
 <br />
